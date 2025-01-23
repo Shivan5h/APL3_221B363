@@ -1,4 +1,0 @@
-class child extends Mother
-{
-    
-}
